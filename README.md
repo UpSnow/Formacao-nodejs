@@ -1,4 +1,4 @@
-#🏎️ MarioKart.js – Simulador de Corrida
+# 🏎️ MarioKart.js – Simulador de Corrida
 
 MarioKart.js é um simulador de corrida em JavaScript, inspirado no universo do Mario Kart. Dois personagens, Mario e Bowser, competem em 11 rodadas cheias de ação e sorte, onde cada rodada representa um tipo diferente de desafio:
 
@@ -16,7 +16,7 @@ MarioKart.js é um simulador de corrida em JavaScript, inspirado no universo do 
 
 O vencedor do confronto ainda pode ativar o modo Turbo e ganhar um ponto extra com base na sorte.
 
-#⚙️ Tecnologias utilizadas:
+# ⚙️ Tecnologias utilizadas:
 
 * JavaScript (Node.js)
 
@@ -26,5 +26,5 @@ O vencedor do confronto ainda pode ativar o modo Turbo e ganhar um ponto extra c
 
 * Estruturas condicionais e funções reutilizáveis
 
-#🎯 Objetivo
+# 🎯 Objetivo
 Exercitar lógica de programação, manipulação de dados, uso de funções assíncronas e criação de jogos baseados em texto.
